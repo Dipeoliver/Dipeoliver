@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipeoliver 
 - 👀 I’m interested in ... studying new programming languages
-- 🌱 I’m currently learning ... java script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... java script / Flutter
+- 💞️ I’m looking to collaborate on ... new projects
 - 📫 How to reach me ...
 
 <!---
